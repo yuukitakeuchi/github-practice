@@ -1,4 +1,7 @@
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
   - index
-      
+  - label: サブツリー
+    children:
+    - step1
+    - step2
