@@ -1,3 +1,9 @@
+---
+id: index
+title: github-practiceの仕様書
+sidebar_label: 仕様書
+---
+
 # 仕様書
 ## はじめに
 このドキュメントはGitHub Pagesがどのようなものかを確認するために作成しました。
