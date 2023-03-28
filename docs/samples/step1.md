@@ -1,7 +1,8 @@
 ---
-id: step1
+layout: default
 title: Step1
-sidebar_label: Step 1
+parent: サンプル
+nav_order: 2
 ---
 
 ### Step1
