@@ -1,7 +1,7 @@
 ---
-id: index
+layout: default
 title: github-practiceの仕様書
-sidebar_label: 仕様書
+has_children: 仕様書
 ---
 
 # 仕様書
